@@ -1,0 +1,32 @@
+html{
+    background-image: url("relojfondo.jpg");
+    background-size: 100%;
+}
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: 10vw;
+  color: azure;
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vw;
+    background-color: rgb(216, 103, 103,.5);
+
+}
+
+#horario{
+    padding: 1vw;
+}
+
+#tiemporestante{
+    background: rgb(119, 136, 153, .5);
+    font-size: 2vw;
+    border: rgb(47, 27, 24, .7) solid .3vw;
+    text-align: center;
+}
+
+b{
+    background-color: rgb(255, 255, 255, .5);
+}
